@@ -1,5 +1,4 @@
-def inroduction(name)
-  puts "Hi, my name is #{name}."
+def inroduction
+  
 end
 
-introduction(Josh)
